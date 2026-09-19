@@ -1,4 +1,4 @@
-joe =  xyz
+joe ='xyz'
 Banana = 5+1038482+28883-123
 
 print("Hello, world!")
